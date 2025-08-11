@@ -8,7 +8,7 @@
    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    Respostas:
 
-1- Embora que eng. de software e programação sejam frequentemente comparados, a programação é o ato de programar em si. Ja a engenharia de software se trata do conhecimento teorico para criar possiveis soluções, e também tem o fator Engenharia que diferencia muito os dois.
+1- Embora que eng. de software e programação sejam frequentemente comparados, a programação é o ato de programar em si. Já a engenharia de software se trata do conhecimento teorico para criar possiveis soluções, e também tem o fator Engenharia que diferencia muito os dois.
 
 2- A engenharia de software trata-se de encontrar ferramentas e maneiras de fazer com que os códigos durem mais, que deixem de ser descartaveis e se tornem mais acessiveis e dinamicos conforme o tempo passa. Ja que em diversas empresas, com o passar do tempo, os codigos foram tão modificados e mexidos que se tornam inviaveis de serem utilizados, tendo que descartar anos de trabalho e esforço fora o dinheiro investido.
 
